@@ -1,0 +1,50 @@
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\07. Đề tài cuối kỳ 4\QuanLyPhongTro\DTO\bin\Debug\DTO.dll
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\07. Đề tài cuối kỳ 4\QuanLyPhongTro\DTO\bin\Debug\DTO.pdb
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\07. Đề tài cuối kỳ 4\QuanLyPhongTro\DTO\obj\Debug\DTO.dll
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\07. Đề tài cuối kỳ 4\QuanLyPhongTro\DTO\obj\Debug\DTO.pdb
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\07. Đề tài cuối kỳ 4\02. WINFORM\QuanLyPhongTro\DTO\bin\Debug\DTO.dll
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\07. Đề tài cuối kỳ 4\02. WINFORM\QuanLyPhongTro\DTO\bin\Debug\DTO.pdb
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\07. Đề tài cuối kỳ 4\02. WINFORM\QuanLyPhongTro\DTO\obj\Debug\DTO.dll
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\07. Đề tài cuối kỳ 4\02. WINFORM\QuanLyPhongTro\DTO\obj\Debug\DTO.pdb
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\07. Đề tài cuối kỳ 4\02. WINFORM\QuanLyPhongTro\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Minh Bao\Downloads\QLTTKTX\ocean-hostel-master\SourceCode\QuanLyPhongTro\DTO\bin\Debug\DTO.dll
+C:\Users\Minh Bao\Downloads\QLTTKTX\ocean-hostel-master\SourceCode\QuanLyPhongTro\DTO\bin\Debug\DTO.pdb
+C:\Users\Minh Bao\Downloads\QLTTKTX\ocean-hostel-master\SourceCode\QuanLyPhongTro\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Minh Bao\Downloads\QLTTKTX\ocean-hostel-master\SourceCode\QuanLyPhongTro\DTO\obj\Debug\DTO.dll
+C:\Users\Minh Bao\Downloads\QLTTKTX\ocean-hostel-master\SourceCode\QuanLyPhongTro\DTO\obj\Debug\DTO.pdb
+C:\Users\Minh Bao\Downloads\QLTTKTX\QLKTX\SourceCode\QuanLyPhongTro\DTO\bin\Debug\DTO.dll
+C:\Users\Minh Bao\Downloads\QLTTKTX\QLKTX\SourceCode\QuanLyPhongTro\DTO\bin\Debug\DTO.pdb
+C:\Users\Minh Bao\Downloads\QLTTKTX\QLKTX\SourceCode\QuanLyPhongTro\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Minh Bao\Downloads\QLTTKTX\QLKTX\SourceCode\QuanLyPhongTro\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Minh Bao\Downloads\QLTTKTX\QLKTX\SourceCode\QuanLyPhongTro\DTO\obj\Debug\DTO.dll
+C:\Users\Minh Bao\Downloads\QLTTKTX\QLKTX\SourceCode\QuanLyPhongTro\DTO\obj\Debug\DTO.pdb
+C:\Users\Minh Bao\Downloads\QLKTX\DTO\bin\Debug\DTO.dll
+C:\Users\Minh Bao\Downloads\QLKTX\DTO\bin\Debug\DTO.pdb
+C:\Users\Minh Bao\Downloads\QLKTX\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Minh Bao\Downloads\QLKTX\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Minh Bao\Downloads\QLKTX\DTO\obj\Debug\DTO.dll
+C:\Users\Minh Bao\Downloads\QLKTX\DTO\obj\Debug\DTO.pdb
+D:\backup\QLKTX\DTO\bin\Debug\DTO.dll
+D:\backup\QLKTX\DTO\bin\Debug\DTO.pdb
+D:\backup\QLKTX\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\backup\QLKTX\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\backup\QLKTX\DTO\obj\Debug\DTO.dll
+D:\backup\QLKTX\DTO\obj\Debug\DTO.pdb
+D:\backup\Tuan_01\QLKTX\DTO\bin\Debug\DTO.dll
+D:\backup\Tuan_01\QLKTX\DTO\bin\Debug\DTO.pdb
+D:\backup\Tuan_01\QLKTX\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\backup\Tuan_01\QLKTX\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\backup\Tuan_01\QLKTX\DTO\obj\Debug\DTO.dll
+D:\backup\Tuan_01\QLKTX\DTO\obj\Debug\DTO.pdb
+C:\Users\Minh Bao\Downloads\Nhom 1_QuanLyKyTucXa\Code\DTO\bin\Debug\DTO.dll
+C:\Users\Minh Bao\Downloads\Nhom 1_QuanLyKyTucXa\Code\DTO\bin\Debug\DTO.pdb
+C:\Users\Minh Bao\Downloads\Nhom 1_QuanLyKyTucXa\Code\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Minh Bao\Downloads\Nhom 1_QuanLyKyTucXa\Code\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Minh Bao\Downloads\Nhom 1_QuanLyKyTucXa\Code\DTO\obj\Debug\DTO.dll
+C:\Users\Minh Bao\Downloads\Nhom 1_QuanLyKyTucXa\Code\DTO\obj\Debug\DTO.pdb
+C:\Users\Minh Bao\Desktop\Nhom 1111\Nhom 1\Nhom 1_QuanLyKyTucXa\Code\DTO\bin\Debug\DTO.dll
+C:\Users\Minh Bao\Desktop\Nhom 1111\Nhom 1\Nhom 1_QuanLyKyTucXa\Code\DTO\bin\Debug\DTO.pdb
+C:\Users\Minh Bao\Desktop\Nhom 1111\Nhom 1\Nhom 1_QuanLyKyTucXa\Code\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Minh Bao\Desktop\Nhom 1111\Nhom 1\Nhom 1_QuanLyKyTucXa\Code\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Minh Bao\Desktop\Nhom 1111\Nhom 1\Nhom 1_QuanLyKyTucXa\Code\DTO\obj\Debug\DTO.dll
+C:\Users\Minh Bao\Desktop\Nhom 1111\Nhom 1\Nhom 1_QuanLyKyTucXa\Code\DTO\obj\Debug\DTO.pdb

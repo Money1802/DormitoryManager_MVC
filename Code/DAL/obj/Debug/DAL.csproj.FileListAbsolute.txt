@@ -1,0 +1,86 @@
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\07. Đề tài cuối kỳ 4\QuanLyPhongTro\DAL\bin\Debug\DAL.dll
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\07. Đề tài cuối kỳ 4\QuanLyPhongTro\DAL\bin\Debug\DAL.pdb
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\07. Đề tài cuối kỳ 4\QuanLyPhongTro\DAL\bin\Debug\DTO.dll
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\07. Đề tài cuối kỳ 4\QuanLyPhongTro\DAL\bin\Debug\DTO.pdb
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\07. Đề tài cuối kỳ 4\QuanLyPhongTro\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\07. Đề tài cuối kỳ 4\QuanLyPhongTro\DAL\obj\Debug\DAL.dll
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\07. Đề tài cuối kỳ 4\QuanLyPhongTro\DAL\obj\Debug\DAL.pdb
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\07. Đề tài cuối kỳ 4\02. WINFORM\QuanLyPhongTro\DAL\bin\Debug\DAL.dll
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\07. Đề tài cuối kỳ 4\02. WINFORM\QuanLyPhongTro\DAL\bin\Debug\DAL.pdb
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\07. Đề tài cuối kỳ 4\02. WINFORM\QuanLyPhongTro\DAL\bin\Debug\DTO.dll
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\07. Đề tài cuối kỳ 4\02. WINFORM\QuanLyPhongTro\DAL\bin\Debug\DTO.pdb
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\07. Đề tài cuối kỳ 4\02. WINFORM\QuanLyPhongTro\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\07. Đề tài cuối kỳ 4\02. WINFORM\QuanLyPhongTro\DAL\obj\Debug\DAL.dll
+C:\Users\Ocean\OneDrive\01. Study\03. Programming\02. C#\WinForm\07. Đề tài cuối kỳ 4\02. WINFORM\QuanLyPhongTro\DAL\obj\Debug\DAL.pdb
+C:\Users\Minh Bao\Downloads\QLTTKTX\ocean-hostel-master\SourceCode\QuanLyPhongTro\DAL\bin\Debug\DAL.dll
+C:\Users\Minh Bao\Downloads\QLTTKTX\ocean-hostel-master\SourceCode\QuanLyPhongTro\DAL\bin\Debug\DAL.pdb
+C:\Users\Minh Bao\Downloads\QLTTKTX\ocean-hostel-master\SourceCode\QuanLyPhongTro\DAL\bin\Debug\DTO.dll
+C:\Users\Minh Bao\Downloads\QLTTKTX\ocean-hostel-master\SourceCode\QuanLyPhongTro\DAL\bin\Debug\DTO.pdb
+C:\Users\Minh Bao\Downloads\QLTTKTX\ocean-hostel-master\SourceCode\QuanLyPhongTro\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Minh Bao\Downloads\QLTTKTX\ocean-hostel-master\SourceCode\QuanLyPhongTro\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Minh Bao\Downloads\QLTTKTX\ocean-hostel-master\SourceCode\QuanLyPhongTro\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Minh Bao\Downloads\QLTTKTX\ocean-hostel-master\SourceCode\QuanLyPhongTro\DAL\obj\Debug\DAL.dll
+C:\Users\Minh Bao\Downloads\QLTTKTX\ocean-hostel-master\SourceCode\QuanLyPhongTro\DAL\obj\Debug\DAL.pdb
+C:\Users\Minh Bao\Downloads\QLTTKTX\QLKTX\SourceCode\QuanLyPhongTro\DAL\bin\Debug\DAL.dll
+C:\Users\Minh Bao\Downloads\QLTTKTX\QLKTX\SourceCode\QuanLyPhongTro\DAL\bin\Debug\DAL.pdb
+C:\Users\Minh Bao\Downloads\QLTTKTX\QLKTX\SourceCode\QuanLyPhongTro\DAL\bin\Debug\DTO.dll
+C:\Users\Minh Bao\Downloads\QLTTKTX\QLKTX\SourceCode\QuanLyPhongTro\DAL\bin\Debug\DTO.pdb
+C:\Users\Minh Bao\Downloads\QLTTKTX\QLKTX\SourceCode\QuanLyPhongTro\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Minh Bao\Downloads\QLTTKTX\QLKTX\SourceCode\QuanLyPhongTro\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Minh Bao\Downloads\QLTTKTX\QLKTX\SourceCode\QuanLyPhongTro\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Minh Bao\Downloads\QLTTKTX\QLKTX\SourceCode\QuanLyPhongTro\DAL\obj\Debug\DAL.dll
+C:\Users\Minh Bao\Downloads\QLTTKTX\QLKTX\SourceCode\QuanLyPhongTro\DAL\obj\Debug\DAL.pdb
+C:\Users\Minh Bao\Downloads\QLKTX\DAL\bin\Debug\DAL.dll
+C:\Users\Minh Bao\Downloads\QLKTX\DAL\bin\Debug\DAL.pdb
+C:\Users\Minh Bao\Downloads\QLKTX\DAL\bin\Debug\DTO.dll
+C:\Users\Minh Bao\Downloads\QLKTX\DAL\bin\Debug\DTO.pdb
+C:\Users\Minh Bao\Downloads\QLKTX\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Minh Bao\Downloads\QLKTX\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Minh Bao\Downloads\QLKTX\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Minh Bao\Downloads\QLKTX\DAL\obj\Debug\DAL.dll
+C:\Users\Minh Bao\Downloads\QLKTX\DAL\obj\Debug\DAL.pdb
+D:\backup\QLKTX\DAL\bin\Debug\DAL.dll
+D:\backup\QLKTX\DAL\bin\Debug\DAL.pdb
+D:\backup\QLKTX\DAL\bin\Debug\DTO.dll
+D:\backup\QLKTX\DAL\bin\Debug\DTO.pdb
+D:\backup\QLKTX\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\backup\QLKTX\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\backup\QLKTX\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\backup\QLKTX\DAL\obj\Debug\DAL.dll
+D:\backup\QLKTX\DAL\obj\Debug\DAL.pdb
+D:\backup\Tuan_01\QLKTX\DAL\bin\Debug\DAL.dll
+D:\backup\Tuan_01\QLKTX\DAL\bin\Debug\DAL.pdb
+D:\backup\Tuan_01\QLKTX\DAL\bin\Debug\DTO.dll
+D:\backup\Tuan_01\QLKTX\DAL\bin\Debug\DTO.pdb
+D:\backup\Tuan_01\QLKTX\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\backup\Tuan_01\QLKTX\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\backup\Tuan_01\QLKTX\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\backup\Tuan_01\QLKTX\DAL\obj\Debug\DAL.dll
+D:\backup\Tuan_01\QLKTX\DAL\obj\Debug\DAL.pdb
+C:\Users\Minh Bao\Desktop\,NET\QLKTX\DAL\bin\Debug\DAL.dll
+C:\Users\Minh Bao\Desktop\,NET\QLKTX\DAL\bin\Debug\DAL.pdb
+C:\Users\Minh Bao\Desktop\,NET\QLKTX\DAL\bin\Debug\DTO.dll
+C:\Users\Minh Bao\Desktop\,NET\QLKTX\DAL\bin\Debug\DTO.pdb
+C:\Users\Minh Bao\Desktop\,NET\QLKTX\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Minh Bao\Desktop\,NET\QLKTX\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Minh Bao\Desktop\,NET\QLKTX\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Minh Bao\Desktop\,NET\QLKTX\DAL\obj\Debug\DAL.dll
+C:\Users\Minh Bao\Desktop\,NET\QLKTX\DAL\obj\Debug\DAL.pdb
+C:\Users\Minh Bao\Downloads\Nhom 1_QuanLyKyTucXa\Code\DAL\bin\Debug\DAL.dll
+C:\Users\Minh Bao\Downloads\Nhom 1_QuanLyKyTucXa\Code\DAL\bin\Debug\DAL.pdb
+C:\Users\Minh Bao\Downloads\Nhom 1_QuanLyKyTucXa\Code\DAL\bin\Debug\DTO.dll
+C:\Users\Minh Bao\Downloads\Nhom 1_QuanLyKyTucXa\Code\DAL\bin\Debug\DTO.pdb
+C:\Users\Minh Bao\Downloads\Nhom 1_QuanLyKyTucXa\Code\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Minh Bao\Downloads\Nhom 1_QuanLyKyTucXa\Code\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Minh Bao\Downloads\Nhom 1_QuanLyKyTucXa\Code\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Minh Bao\Downloads\Nhom 1_QuanLyKyTucXa\Code\DAL\obj\Debug\DAL.dll
+C:\Users\Minh Bao\Downloads\Nhom 1_QuanLyKyTucXa\Code\DAL\obj\Debug\DAL.pdb
+C:\Users\Minh Bao\Desktop\Nhom 1111\Nhom 1\Nhom 1_QuanLyKyTucXa\Code\DAL\bin\Debug\DAL.dll
+C:\Users\Minh Bao\Desktop\Nhom 1111\Nhom 1\Nhom 1_QuanLyKyTucXa\Code\DAL\bin\Debug\DAL.pdb
+C:\Users\Minh Bao\Desktop\Nhom 1111\Nhom 1\Nhom 1_QuanLyKyTucXa\Code\DAL\bin\Debug\DTO.dll
+C:\Users\Minh Bao\Desktop\Nhom 1111\Nhom 1\Nhom 1_QuanLyKyTucXa\Code\DAL\bin\Debug\DTO.pdb
+C:\Users\Minh Bao\Desktop\Nhom 1111\Nhom 1\Nhom 1_QuanLyKyTucXa\Code\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Minh Bao\Desktop\Nhom 1111\Nhom 1\Nhom 1_QuanLyKyTucXa\Code\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Minh Bao\Desktop\Nhom 1111\Nhom 1\Nhom 1_QuanLyKyTucXa\Code\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Minh Bao\Desktop\Nhom 1111\Nhom 1\Nhom 1_QuanLyKyTucXa\Code\DAL\obj\Debug\DAL.dll
+C:\Users\Minh Bao\Desktop\Nhom 1111\Nhom 1\Nhom 1_QuanLyKyTucXa\Code\DAL\obj\Debug\DAL.pdb
